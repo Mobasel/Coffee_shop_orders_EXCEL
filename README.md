@@ -4,9 +4,9 @@ Also, I created a pivot table to get the total sales per coffee type for each mo
 Then, I inserted some charts for better visualization and combined them in a new sub-sheet.                      
 And, finally, I took the resultant sheet to Tableau to get the maximum benefits of the visualization and created a dashboard. 
 
-Google Sheets Link: https://docs.google.com/spreadsheets/d/1ZrfSEzgBLOsEyEuA3HEoH_S3eLTGxf_o7fWkwxSxKgI/edit?usp=sharing
+Sheet Link: https://docs.google.com/spreadsheets/d/1ZrfSEzgBLOsEyEuA3HEoH_S3eLTGxf_o7fWkwxSxKgI/edit?usp=sharing
 
-Tableau dashboard link: https://public.tableau.com/app/profile/mostafa.elbassel/viz/InsightsforcoffeesalesDashboard/InsightsforcoffeesalesDashboard
+Tableau dashboard (check the other tabs): https://public.tableau.com/app/profile/mostafa.elbassel/viz/InsightsforcoffeesalesDashboard/InsightsforcoffeesalesDashboard
 
 
 
